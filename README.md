@@ -44,6 +44,6 @@ We train both **Linear** and **RBF kernel** models, visualize the decision bound
 
 ##  Author
 
-**Pavan Reddy Kasara **
+Pavan Reddy Kasara
 B.Tech – Artificial Intelligence & Machine Learning
 Presidency University, Bengaluru
